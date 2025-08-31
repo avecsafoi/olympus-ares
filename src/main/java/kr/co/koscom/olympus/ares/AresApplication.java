@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OlympusAresApplication {
+public class AresApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OlympusAresApplication.class, args);
+		SpringApplication.run(AresApplication.class, args);
 	}
 
 }
